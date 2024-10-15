@@ -15,6 +15,7 @@ These resources are in no particular order, they just are. So enjoy!
 * https://www.youtube.com/watch?v=eDjlQbH_DTI&list=PLlCWln7xuottidcUEsfqhXeV9fhIbkJ4s
 * https://www.youtube.com/watch?v=lL4dUK9Jsi4&list=PLlCWln7xuotvuWqP_8BGsa2qfPuogjUwq
 * https://www.youtube.com/watch?v=7YXXrbTah_s
+* https://www.youtube.com/watch?v=Lvg9NdJQ4Nw
 
 ## 📜 Papers
 * https://www.researchgate.net/publication/361788784_A_Generic_Taxonomy_for_Steganography_Methods
