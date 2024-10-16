@@ -1,4 +1,4 @@
-# 🥷 NetStego - Network Steganography Learning Resources 🥷
+# 🧑‍🎓 NetStego - Network Steganography Learning Resources 🧑‍🎓
 ## 🤷‍♂️ What's this all about?
 Below I'm providing a constantly updated list of websites, videos, papers and books related to the field of Network Steganography for any geek who wants to go down this fascinating rabbit hole.
 
