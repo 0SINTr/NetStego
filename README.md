@@ -29,6 +29,7 @@ These resources are in no particular order, they just are. So enjoy!
 ## 📖 Books
 * https://onlinelibrary.wiley.com/doi/book/10.1002/9781119081715
 * https://link.springer.com/chapter/10.1007/978-3-030-78120-0_8
+* https://link.springer.com/book/10.1007/978-981-97-4895-2
 
 ## ⚠️ Disclaimer
 I am in no way affiliated with any of the websites, publications, people or YouTube channels mentioned above.
